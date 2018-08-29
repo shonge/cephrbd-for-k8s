@@ -9,7 +9,7 @@ parameters:
   adminId: admin
   adminSecretNamespace: kube-system
   adminSecretName: ceph-admin-secret
-  userId: admin
+  userId: kube
   userSecretNamespace: kube-system
   userSecretName: ceph-secret
   imageFormat: "2"
